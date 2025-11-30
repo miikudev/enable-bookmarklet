@@ -6,7 +6,7 @@ print("Wsp!👋")
   <img src="https://i.giphy.com/vRHKYJFbMNapxHnp6x.webp"/>
 </p>
 
-## Token Vunesp [SARESP]
+## Enable Copy/Paste
 
 - Como utilizar:
 
